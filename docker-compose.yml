@@ -6,8 +6,7 @@ services:
 
   backend:
     build: ./backend
-    env_file:
-      - .env
+   
 
   nginx:
     image: nginx:alpine
