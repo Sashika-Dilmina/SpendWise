@@ -1,6 +1,6 @@
 import React, { useRef, useState } from "react";
 import { LuUser,LuUpload,LuTrash } from "react-icons/lu";
-import Input from '../../components/inputs/input';
+import Input from '../../components/Inputs/Input';
 
 
 
