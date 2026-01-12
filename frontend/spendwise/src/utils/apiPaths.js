@@ -1,5 +1,4 @@
-export const BASE_URL = "http://localhost:5000";
-// utils/apiPath.js
+
 
 export const BASE_URL = "/api/v1";
 
